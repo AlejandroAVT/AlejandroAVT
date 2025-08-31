@@ -42,17 +42,9 @@ Me interesa colaborar en proyectos relacionados con:
 
 ---
 
-✨ *“El aprendizaje constante es la herramienta más poderosa de un ingeniero de software en formación.”*
-
----
-
 ##  Mis lenguajes más usados
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroAVT&layout=donut&langs_count=6&theme=dark&v=2" />
 </div>
 
----
-
-> "*No tengo bugs, tengo features sorpresa.*" — Yo, probablemente
-> 
