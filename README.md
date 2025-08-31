@@ -1,36 +1,48 @@
-# 👋 ¡Hola! Soy un estudiante de Ingeniería de Software 👨‍💻
+# 👋 Hola, soy Alejandro Velarde
 
-Estoy en **tercer ciclo** de la carrera, sobreviviendo a clases, parciales y entregas, pero con muchas ganas de aprender.  
-Lo que más me gusta (aparte de comer y dormir) son los **videojuegos** 🎮 — jugar, analizarlos y, algún día, ¡crearlos!
-
----
-
-## 🧠 Cosas random sobre mí
-
-- 📚 Estudio Ingeniería de Software (y a veces sí entiendo lo que leo)
-- 💻 Me gusta programar (aunque a veces pelee con el compilador)
-- 🎮 Amo los videojuegos desde chiquito (y sí, me sigo emocionando como si tuviera 10)
-- 🧪 Estoy aprendiendo C#, Java, HTML, CSS, un poco de JS... y viendo qué más me gusta
-- 🔧 VS Code es mi segundo hogar
-- 🧠 Sueño con hacer mi propio juego algún día
+🎓 Estudiante de **Ingeniería de Software**  
+💻 Apasionado por el **desarrollo web**, **data science** y la **resolución de problemas** con código.  
+🚀 En constante aprendizaje de nuevas tecnologías y metodologías ágiles.  
 
 ---
 
-## 🚀 Estoy aprendiendo
-
-- **Lenguajes:** C#, Java, JavaScript, Python (cuando no me confundo de sintaxis)
-- **Web:** HTML, CSS y metiéndome poco a poco con React
-- **Bases de datos:** MySQL y SQLite (para guardar las ideas, no los bugs)
-- **Herramientas:** Git, GitHub, Visual Studio, VS Code, Unity (modo novato activado)
+## 🌱 Actualmente aprendiendo
+- Desarrollo web con **HTML, CSS y JavaScript**  
+- Fundamentos de **Bases de Datos** con **SQL Server**  
+- **Python** para análisis de datos y estadística  
+- Principios de **Algoritmia y Estructuras de Datos**  
 
 ---
 
-## 🎯 Mis planes
+## 🛠️ Tecnologías y herramientas
+- **Lenguajes:** C++, Python, SQL, JavaScript  
+- **Herramientas:** Git & GitHub, Figma, RStudio, VS Code, SSMS  
+- **Otras áreas:** Modelado matemático, análisis estadístico, UX/UI básico  
 
-- Aprender un poco de todo hasta que algo me obsesione
-- Hacer proyectos propios, aunque sean simples
-- Unirme a game jams cuando me anime
-- Compartir lo que aprendo (y los errores también, obvio)
+---
+
+## 📌 Proyectos destacados
+- 📊 **Análisis de datos con Python**: proyectos de estadística y machine learning con datasets académicos.  
+- 🌐 **Página web de Física**: sitio web educativo en HTML y CSS con secciones de teoría, experimentos y simulaciones.  
+- 📱 **Gestor de tareas universitarias**: prototipo en Figma como parte de un proyecto de soft skills.  
+
+---
+
+## 🤝 Colaboración
+Me interesa colaborar en proyectos relacionados con:  
+- Desarrollo web (front-end y back-end básico)  
+- Ciencia de datos y análisis estadístico  
+- Emprendimiento y soluciones tecnológicas  
+
+---
+
+## 📫 Contacto
+- LinkedIn: [(https://www.linkedin.com/in/alejo-velarde-timoteo-815784368/)](#)  
+- Correo: **alejandrovelardetimoteo@gmail.com**  
+
+---
+
+✨ *“El aprendizaje constante es la herramienta más poderosa de un ingeniero de software en formación.”*
 
 ---
 
