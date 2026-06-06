@@ -10,7 +10,6 @@
 - Desarrollo web con **HTML, CSS y JavaScript**  
 - Fundamentos de **Bases de Datos** con **SQL Server**  
 - **Python** para análisis de datos y estadística  
-- Principios de **Algoritmia y Estructuras de Datos**  
 
 ---
 
